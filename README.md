@@ -1,8 +1,8 @@
 # Markov Chain and Bayesian Network in Python
 This repository provides implementations of two popular probabilistic models:
 
-# a)Markov Chain for generating random text based on input data.
-# b)Bayesian Network for simulating medical diagnosis (flu, cough, fever).
+## a)Markov Chain for generating random text based on input data.
+## b)Bayesian Network for simulating medical diagnosis (flu, cough, fever).
 ## 1. Markov Chain Implementation
 ### Overview
 A Markov Chain is a mathematical model that describes a sequence of possible events, where the probability of each event depends only on the previous one (the "current state"). In this implementation, the Markov Chain is used to generate random sequences of text.
